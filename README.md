@@ -1,3 +1,16 @@
+**Important**
+
+Please provide your contact information here:
+
+https://forms.gle/idb3oaDFxv8rciyM9
+
+When you are done with the test, please upload your code inside a ZIP to Google Drive and share the link here. Please include your ChatGPT or Claude chat link:
+
+https://forms.gle/ua5hBmaGbtS7WFi6A 
+
+
+---
+
 # Instruções para Realização dos Testes
 
 Por favor, siga as etapas abaixo:
@@ -16,7 +29,7 @@ Mesmo que você saiba como corrigir o código sem precisar de assistência, é i
 Quando o código estiver completo, por favor, forneça os seguintes itens:
 
 - **ZIP:** Arquivo contendo o código completo.
-- **Documentação:** Uma documentação de 1-2 páginas explicando como o Teste 1 funciona.
+- **Documentação:** Uma documentação de 1-2 páginas explicando como o Teste 1 funciona. Ver exemplo da documentação do Teste 2.
 - **Link para a conversa com a IA:** Um link para a conversa que você teve com a IA, independentemente de precisar de ajuda, para entender o seu raciocínio.
 
 ## Tempo Estimado
