@@ -8,7 +8,8 @@ Por favor, siga as etapas abaixo:
 
 ## Suporte
 
-Para suporte, utilize ChatGPT 4-o, Claude, ou Cursor para auxiliar na execução dos testes.
+Para suporte, utilize ChatGPT 4-o, Claude, ou Cursor para auxiliar na execução dos testes.  
+Mesmo que você saiba como corrigir o código sem precisar de assistência, é importante utilizar uma dessas IAs e compartilhar o histórico da conversa. Isso ajudará a entender seu processo de pensamento.
 
 ## Entregáveis
 
@@ -16,7 +17,7 @@ Quando o código estiver completo, por favor, forneça os seguintes itens:
 
 - **ZIP:** Arquivo contendo o código completo.
 - **Documentação:** Uma documentação de 1-2 páginas explicando como o Teste 1 funciona.
-- **Link para a conversa com a IA:** Um link para a conversa que você teve com a IA para entender seu processo de raciocínio.
+- **Link para a conversa com a IA:** Um link para a conversa que você teve com a IA, independentemente de precisar de ajuda, para entender o seu raciocínio.
 
 ## Tempo Estimado
 
