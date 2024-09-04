@@ -1,6 +1,6 @@
 # C# Developer Test
 
-Welcome! This test is designed to assess your familiarity with setting up a .NET 8 environment, using VS Code and the command line, and developing a simple ASP.NET Core API.
+Welcome! This test is designed to assess your familiarity with setting up a .NET 8 environment, using VS Code and the command line, and developing a simple ASP.NET Core API. You must be able to solve any issues arise.
 
 ## Task Overview
 
@@ -152,7 +152,6 @@ app.UseCors("AllowAllOrigins");
 
 app.UseHttpsRedirection();
 app.MapControllers();
-app.Run();
 ```
 
 #### 4. **Generate API Controller**

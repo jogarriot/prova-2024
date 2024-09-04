@@ -25,8 +25,8 @@ namespace ServerTests
 
                 // Act
                 await client.ConnectAsync(uri, CancellationToken.None);
-                // Subscribe to TIME topic
-                var subscribeMessage = Encoding.UTF8.GetBytes("SUBSCRIBE: TIME");
+                // Subscribe to CPU topic
+                var subscribeMessage = Encoding.UTF8.GetBytes("SUBSCRIBE: CPU");
                 await client.SendAsync(new ArraySegment<byte>(subscribeMessage), WebSocketMessageType.Text, true, CancellationToken.None);
 
                 await Task.Delay(1000); // Wait for the subscription to process
@@ -37,9 +37,9 @@ namespace ServerTests
                 var result = await client.ReceiveAsync(new ArraySegment<byte>(buffer), CancellationToken.None);
                 var message = Encoding.UTF8.GetString(buffer, 0, result.Count);
 
-                // Assert that we only receive TIME messages
-                Assert.Contains("TIME:", message);
-                Assert.DoesNotContain("CPU:", message);
+                // Assert that we only receive CPU messages
+                Assert.Contains("CPU:", message);
+                Assert.DoesNotContain("TIME:", message);
 
                 // Cleanup
                 await client.CloseAsync(WebSocketCloseStatus.NormalClosure, "Test complete", CancellationToken.None);

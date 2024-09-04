@@ -4,7 +4,7 @@ const ws = new WebSocket('ws://localhost:5000/');
 
 ws.on('open', function open() {
     console.log('Connected to server');
-    ws.send('SUBSCRIBE: TIME');
+    ws.send('SUBSCRIBE: CPU');
 });
 
 ws.on('message', function incoming(data) {
