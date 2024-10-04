@@ -2,38 +2,59 @@
 
 Please provide your contact information here:
 
-https://forms.gle/idb3oaDFxv8rciyM9
+👉 [Contact Information Form](https://forms.gle/idb3oaDFxv8rciyM9)
 
 When you are done with the test, please upload your code inside a ZIP to Google Drive and share the link here. Please include your ChatGPT or Claude chat link:
 
-https://forms.gle/ua5hBmaGbtS7WFi6A 
-
+👉 [Code Submission Form](https://forms.gle/ua5hBmaGbtS7WFi6A)
 
 ---
 
-# Instruções para Realização dos Testes
+# Instructions for Completing the Tests
 
-Por favor, siga as etapas abaixo:
+Please follow the steps below carefully:
 
-1. **Complete o Teste 1:** Comece realizando o Teste 1 conforme as instruções fornecidas.
-   - **Documentação:** Após concluir o Teste 1, prepare uma documentação de 1 a 2 páginas explicando como o Teste 1 funciona. Use a documentação do Teste 2 como exemplo.
-2. **Complete o Teste 2:** Após finalizar o Teste 1, prossiga para o Teste 2.
+1. **Complete Test 1:**
+   - Begin by performing Test 1 according to the provided instructions. **Do not use AI assistance** for this test. If you do use AI at any point, you must share the chat history link.
+   - **Documentation Requirement:** After completing Test 1, prepare a 1-2 page document explaining how Test 1 works. Use the documentation from Test 2 as a reference.
 
-## Suporte
+2. **Complete Test 2:**
+   - You MUST use AI assistance from **ChatGPT 4o-mini** (only) to complete Test 2. You cannot use o1 or other models.
+   - It is mandatory to share the chat history link so we can understand the logic used in your questions and answers. Please use AI from the [ChatGPT](https://chatgpt.com/) website.
 
-Para suporte, utilize ChatGPT 4-o, Claude, ou Cursor para auxiliar na execução dos testes.  
-Mesmo que você saiba como corrigir o código sem precisar de assistência, é importante utilizar uma dessas IAs e compartilhar o histórico da conversa. Isso ajudará a entender seu processo de pensamento.
+3. **Complete Test 3:**
+   - Perform Test 3 without using AI assistance. If you use AI for any part of Test 3, you must share the chat history link to provide transparency in your thought process.
 
-## Entregáveis
+---
 
-Quando o código estiver completo, por favor, forneça os seguintes itens:
+## Support
 
-- **ZIP:** Arquivo contendo o código completo.
-- **Documentação:** Uma documentação de 1-2 páginas explicando como o Teste 1 funciona. Ver exemplo da documentação do Teste 2.
-- **Link para a conversa com a IA:** Um link para a conversa que você teve com a IA, independentemente de precisar de ajuda, para entender o seu raciocínio.
+For **Test 2**, you are allowed to use ChatGPT 4o-mini for support in executing the tests. Please make sure to share the conversation link to help us understand the thought process behind your logic and decisions. Even if you know how to fix the code without assistance, it is essential to document your AI interaction for evaluation purposes.
 
-## Tempo Estimado
+---
 
-Espera-se que a conclusão de todas as tarefas leve **no máximo 3 horas**.
+## Deliverables
 
-> **Nota:** O objetivo é entender o seu processo de raciocínio, não necessariamente avaliar o seu conhecimento em programação C#.
+When the code is complete, please provide the following items:
+
+- **ZIP File:** A ZIP file containing the complete code for all tests.
+- **Documentation:** A 1-2 page document explaining how Test 1 works. Use the documentation for Test 2 as an example.
+- **AI Chat Link:** A link to the conversation you had with the AI for **Test 2** (if applicable).
+
+---
+
+## Submission Links
+
+- **Contact Information Form:**  
+  👉 [Submit your contact information here](https://forms.gle/idb3oaDFxv8rciyM9).
+
+- **Code Submission Form:**  
+  👉 [Upload your ZIP file and chat history here](https://forms.gle/ua5hBmaGbtS7WFi6A).
+
+---
+
+## Estimated Time
+
+It is expected you complete all tasks within the timespan provided by your interviewer.
+
+> **Note:** The goal is to understand your thought process, not only to evaluate your proficiency in C# programming.
