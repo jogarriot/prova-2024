@@ -2,6 +2,8 @@
 
 Welcome! This test is designed to assess your familiarity with setting up a .NET 8 environment, using VS Code and the command line, and developing a simple ASP.NET Core API. You must be able to solve any issues arise.
 
+Do not use AI assistance to resolve this test.
+
 ## Task Overview
 
 You are required to create an ASP.NET Core API project using .NET 8 and VS Code. The project will expose two API endpoints that retrieve data from an external service, store it in a SQLite database using `Entity Framework Core`, and cache the responses.
