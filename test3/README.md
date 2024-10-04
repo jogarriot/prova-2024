@@ -2,6 +2,8 @@
 
 This test builds upon TEST 2, adding a new feature for random jokes.
 
+Do not use AI assistance to solve this test.
+
 ## Setup and Running
 
 1. Server Setup:
